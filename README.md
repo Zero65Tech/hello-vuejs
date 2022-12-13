@@ -1,5 +1,3 @@
-# hello-vuejs
-
 ## Project setup
 ```
 npm install
